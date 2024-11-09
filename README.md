@@ -1,4 +1,5 @@
-Explore City Populations on a 3D Interactive Globe 🌍
+#Explore City Populations on a 3D Interactive Globe 🌍
+
 This project visualizes global city populations on a 3D interactive globe using R and threejs.
 Cities are color-coded based on population categories, providing an engaging way to explore urban density worldwide.
 
